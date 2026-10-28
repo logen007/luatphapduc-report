@@ -1,7 +1,7 @@
 {
   "title": "Nhu cầu và vấn đề của người Việt tại Đức",
   "prepared_by": "Phan Tuấn Anh",
-  "updated_at": "2026-10-28T21:07:20.418650+07:00",
+  "updated_at": "2026-10-28T21:21:04.838508+07:00",
   "run_status": "SUCCEEDED",
   "posts_analyzed": 12527,
   "readable_posts": 12512,
@@ -1073,6 +1073,150 @@
         "residence",
         "citizenship",
         "fraud_disputes"
+      ]
+    },
+    {
+      "post_id": "1622222665064152",
+      "url": "https://www.facebook.com/groups/LuatPhapDuc/permalink/1622222665064152/",
+      "date": "Thu, 06 Feb 2025 14:15:44 GMT",
+      "quote": "Theo điều § 11 của Luật Kinh tế - Ngoại…",
+      "engagement": 915,
+      "reactions": 750,
+      "comments": 53,
+      "shares": 112,
+      "themes": [
+        "tax_money",
+        "civil_documents",
+        "fraud_disputes"
+      ]
+    },
+    {
+      "post_id": "1606455243307561",
+      "url": "https://www.facebook.com/groups/LuatPhapDuc/permalink/1606455243307561/",
+      "date": "Mon, 13 Jan 2025 21:59:31 GMT",
+      "quote": "Steuerklasse quyết định số tiền thuế thu nhập (Lohnsteuer) mà…",
+      "engagement": 895,
+      "reactions": 567,
+      "comments": 44,
+      "shares": 284,
+      "themes": [
+        "family",
+        "tax_money",
+        "benefits_insurance"
+      ]
+    },
+    {
+      "post_id": "2020912781861803",
+      "url": "https://www.facebook.com/groups/LuatPhapDuc/permalink/2020912781861803/",
+      "date": "Sun, 05 Jul 2026 20:00:23 GMT",
+      "quote": "Vào thời điểm cuối tháng 4 do em hỏi nhiều…",
+      "engagement": 893,
+      "reactions": 575,
+      "comments": 226,
+      "shares": 92,
+      "themes": [
+        "residence",
+        "work_study",
+        "travel_documents",
+        "tax_money",
+        "benefits_insurance"
+      ]
+    },
+    {
+      "post_id": "1605794703373615",
+      "url": "https://www.facebook.com/groups/LuatPhapDuc/permalink/1605794703373615/",
+      "date": "Sun, 12 Jan 2025 21:12:47 GMT",
+      "quote": "Lương brutto (Bruttogehalt): Đây là tổng lương trước khi trừ…",
+      "engagement": 845,
+      "reactions": 556,
+      "comments": 40,
+      "shares": 249,
+      "themes": [
+        "work_study",
+        "tax_money",
+        "benefits_insurance"
+      ]
+    },
+    {
+      "post_id": "1626339504652468",
+      "url": "https://www.facebook.com/groups/LuatPhapDuc/permalink/1626339504652468/",
+      "date": "Thu, 13 Feb 2025 07:04:42 GMT",
+      "quote": "(Con không biết số tiền này là cho vấn đề…",
+      "engagement": 755,
+      "reactions": 490,
+      "comments": 228,
+      "shares": 37,
+      "themes": [
+        "residence",
+        "fraud_disputes"
+      ]
+    },
+    {
+      "post_id": "1593179717968447",
+      "url": "https://www.facebook.com/groups/LuatPhapDuc/permalink/1593179717968447/",
+      "date": "Tue, 24 Dec 2024 19:07:10 GMT",
+      "quote": "",
+      "engagement": 744,
+      "reactions": 720,
+      "comments": 24,
+      "shares": 0,
+      "themes": []
+    },
+    {
+      "post_id": "1696430747643343",
+      "url": "https://www.facebook.com/groups/LuatPhapDuc/permalink/1696430747643343/",
+      "date": "Wed, 21 May 2025 06:49:06 GMT",
+      "quote": "Trong trường hợp này em có thể làm gì ạ…",
+      "engagement": 738,
+      "reactions": 565,
+      "comments": 150,
+      "shares": 23,
+      "themes": [
+        "work_study",
+        "benefits_insurance"
+      ]
+    },
+    {
+      "post_id": "1520873071865779",
+      "url": "https://www.facebook.com/groups/LuatPhapDuc/permalink/1520873071865779/",
+      "date": "Wed, 11 Sep 2024 10:10:11 GMT",
+      "quote": "**Ban quản trị kêu gọi tất cả các thành viên…",
+      "engagement": 734,
+      "reactions": 649,
+      "comments": 58,
+      "shares": 27,
+      "themes": [
+        "work_study"
+      ]
+    },
+    {
+      "post_id": "2107482189871528",
+      "url": "https://www.facebook.com/groups/LuatPhapDuc/permalink/2107482189871528/",
+      "date": "Fri, 16 Oct 2026 08:43:41 GMT",
+      "quote": "Em muốn hỏi là bây giờ cần giải quyết các…",
+      "engagement": 728,
+      "reactions": 641,
+      "comments": 72,
+      "shares": 15,
+      "themes": [
+        "travel_documents",
+        "housing",
+        "benefits_insurance",
+        "civil_documents"
+      ]
+    },
+    {
+      "post_id": "1765505707402513",
+      "url": "https://www.facebook.com/groups/LuatPhapDuc/permalink/1765505707402513/",
+      "date": "Thu, 21 Aug 2025 05:49:46 GMT",
+      "quote": "Cho hỏi em xin krank tối đa là bao nhiêu…",
+      "engagement": 727,
+      "reactions": 317,
+      "comments": 390,
+      "shares": 20,
+      "themes": [
+        "work_study",
+        "benefits_insurance"
       ]
     }
   ],
